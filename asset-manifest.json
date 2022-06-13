@@ -1,13 +1,21 @@
 {
   "files": {
     "main.css": "/Phone_Store_React.js/static/css/main.51b4a6b9.css",
-    "main.js": "/Phone_Store_React.js/static/js/main.fba1cdcb.js",
+    "main.js": "/Phone_Store_React.js/static/js/main.fb15b824.js",
+    "static/media/product-8.png": "/Phone_Store_React.js/static/media/product-8.ab80bb7c302a7a5758f0.png",
+    "static/media/product-3.png": "/Phone_Store_React.js/static/media/product-3.be78b996af1ec912efa9.png",
+    "static/media/product-1.png": "/Phone_Store_React.js/static/media/product-1.dc95857d2d9bda29209c.png",
+    "static/media/product-4.png": "/Phone_Store_React.js/static/media/product-4.41644bf5ef6f6c4fde2a.png",
+    "static/media/product-5.png": "/Phone_Store_React.js/static/media/product-5.d20c3f0fe3eb3321bc7b.png",
+    "static/media/product-6.png": "/Phone_Store_React.js/static/media/product-6.0c81efa9eb7483b1ec50.png",
+    "static/media/product-2.png": "/Phone_Store_React.js/static/media/product-2.fb642d4a4ca172d7f065.png",
+    "static/media/product-7.png": "/Phone_Store_React.js/static/media/product-7.2dfe8ff5d17aca8d9202.png",
     "index.html": "/Phone_Store_React.js/index.html",
     "main.51b4a6b9.css.map": "/Phone_Store_React.js/static/css/main.51b4a6b9.css.map",
-    "main.fba1cdcb.js.map": "/Phone_Store_React.js/static/js/main.fba1cdcb.js.map"
+    "main.fb15b824.js.map": "/Phone_Store_React.js/static/js/main.fb15b824.js.map"
   },
   "entrypoints": [
     "static/css/main.51b4a6b9.css",
-    "static/js/main.fba1cdcb.js"
+    "static/js/main.fb15b824.js"
   ]
 }
