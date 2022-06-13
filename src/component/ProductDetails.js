@@ -37,7 +37,7 @@ const ProductDetails = (props) => {
       </h2>
       <div className="d-lg-flex justify-content-center align-item-center gap-3">
         <div className="img my-5">
-          <img src={"../" + product.img} alt="..." />
+          <img src={product.img} alt="..." />
         </div>
         <div className="info my-5">
           <h3 className="text-info">{product.title}</h3>

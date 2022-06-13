@@ -11,7 +11,7 @@ const CartItem = (props) => {
 
   return (
     <div className="card col-md-4 col-lg-3">
-      <img src={"../" + item.img} className="card-img-top" alt="..." />
+      <img src={item.img} className="card-img-top" alt="..." />
       <div className="card-body">
         <h5 className="card-title">{item.title}</h5>
         <p className="card-text text-black-50 mb-0">

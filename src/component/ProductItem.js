@@ -25,7 +25,7 @@ const ProductItem = () => {
     <div className="row">
       {data.map((item) => (
         <div className="card col-md-4 col-lg-3 py-2" key={item.id}>
-          <img src={"../" + item.img} className="card-img-top" alt="..." />
+          <img src={item.img} className="card-img-top" alt="..." />
           <div className="card-body">
             <h5 className="card-title">{item.title}</h5>
             <p className="card-text">${item.price}</p>
